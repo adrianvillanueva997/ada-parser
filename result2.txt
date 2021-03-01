@@ -1,0 +1,63 @@
+Token Identificador: with en la linea 1
+Token Identificador: Ada en la linea 1
+Token Simbolo: . en la linea 1
+Token Identificador: Text en la linea 1
+Token Identificador: IO en la linea 1
+Token Identificador: use en la linea 1
+Token Identificador: Ada en la linea 1
+Token Simbolo: . en la linea 1
+Token Identificador: Text en la linea 1
+Token Identificador: IO en la linea 1
+Token procedure: procedure Main is en la linea 2
+Token Identificador: c1 en la linea 3
+Token Simbolo: : en la linea 3
+Token Identificador: Character en la linea 3
+Token Identificador: v1 en la linea 4
+Token Simbolo: : en la linea 4
+Token Identificador: Integer en la linea 4
+Token Operador relacional: = en la linea 4 
+Token Entero: 0 en la linea 4 
+Token Identificador: v2 en la linea 5
+Token Simbolo: : en la linea 5
+Token Identificador: Integer en la linea 5
+Token Operador relacional: = en la linea 5 
+Token Decimal: 4.5 en la linea 5 
+Token Identificador: counter en la linea 6
+Token Simbolo: : en la linea 6
+Token Identificador: Integer en la linea 6
+Token Operador relacional: = en la linea 6 
+Token Entero: 10 en la linea 6 
+Token Identificador: begin en la linea 7
+Token bucle FOR: for I en la linea 8
+Token Identificador: in en la linea 8
+Token Entero: 1 en la linea 8 
+Token Simbolo: . en la linea 8
+Token Simbolo: . en la linea 8
+Token Identificador: counter en la linea 8
+Token Identificador: loop en la linea 8
+Token sentencia if: if v1 = v2 then en la linea 9
+Token asignacion: c1 := 'a'; en la linea 10
+Token Identificador: Ada en la linea 11
+Token Simbolo: . en la linea 11
+Token Identificador: Text en la linea 11
+Token Identificador: IO en la linea 11
+Token Simbolo: . en la linea 11
+Token Identificador: Put en la linea 11
+Token Identificador: c1 en la linea 11
+Token Identificador: else en la linea 12
+Token asignacion: c1 := 'bb'; en la linea 13
+Token Identificador: Ada en la linea 14
+Token Simbolo: . en la linea 14
+Token Identificador: Text en la linea 14
+Token Identificador: IO en la linea 14
+Token Simbolo: . en la linea 14
+Token Identificador: Put en la linea 14
+Token Identificador: c1 en la linea 14
+Token fin de sentencia: end if; en la linea 15
+Token Identificador: v1 en la linea 16
+Token Operador relacional: = en la linea 16 
+Token Identificador: v1 en la linea 16
+Token Operador aritmetico:  + en la linea 16 
+Token Decimal: 0.5 en la linea 16 
+Token fin de sentencia: end loop; en la linea 17
+Token fin de sentencia: end Main; en la linea 18

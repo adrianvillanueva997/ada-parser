@@ -1,5 +1,6 @@
 #/usr/bin/bash
 flex parser.flex
-gcc lex.yy.c -L/lib -lfl
-./a.out < ./ada/example1.adb > result1.txt
-./a.out < ./ada/example2.adb > result2.txt
+gcc ./generated/lex.yy.c -L/lib -lfl
+mv ./a.out ./bin
+./bin/a.out < ./ada/example1.adb > ./output/result1.txt
+./bin/a.out < ./ada/example2.adb > ./output/result2.txt

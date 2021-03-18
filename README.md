@@ -1,2 +1,2 @@
 # ada-parser
-Flex and Bison exercise to parse Ada code
+Flex exercise to parse Ada code
